@@ -21,7 +21,7 @@ import (
 	"os"
 
 	"github.com/googleapis/gnostic/compiler"
-	openapi_v2 "github.com/googleapis/gnostic/openapiv2"
+	openapi_v2 "github.com/googleapis/gnostic/OpenAPIv2"
 	yaml "gopkg.in/yaml.v2"
 
 	"k8s.io/kube-openapi/pkg/schemaconv"

@@ -24,7 +24,7 @@ import (
 	yaml "gopkg.in/yaml.v2"
 
 	"github.com/googleapis/gnostic/compiler"
-	openapi_v2 "github.com/googleapis/gnostic/openapiv2"
+	openapi_v2 "github.com/googleapis/gnostic/OpenAPIv2"
 )
 
 // Fake opens and returns a openapi swagger from a file Path. It will
